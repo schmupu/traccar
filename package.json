@@ -1,5 +1,5 @@
 {
-  "name": "traccar",
+  "name": "schmupu.traccar",
   "version": "4.0",
   "description": "ERROR_UNKNOWN",
   "license": "Unlicense",
@@ -15,7 +15,7 @@
     "url": "https://github.com/schmupu/traccar"
   },
   "dependencies": {
-    "superagent": "3.7.0"
+    "superagent": "3.7.0",
   },
   "devDependencies": {
     "mocha": "~2.3.4",
