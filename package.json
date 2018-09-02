@@ -15,8 +15,7 @@
     "url": "https://github.com/schmupu/traccar"
   },
   "dependencies": {
-    "superagent": "3.7.0",
-    "traccar": "0.0.8"
+    "superagent": "3.7.0"
   },
   "devDependencies": {
     "mocha": "~2.3.4",
